@@ -25,8 +25,8 @@ static struct {
 
 #define USE_MDNS       1
 // Use the address "dap.local" to access the device
-#define MDNS_HOSTNAME "dap"
-#define MDNS_INSTANCE "DAP mDNS"
+#define MDNS_HOSTNAME "wd_0"
+#define MDNS_INSTANCE "wd_0 mDNS"
 //
 
 #define USE_STATIC_IP 1
